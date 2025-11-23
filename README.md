@@ -2,10 +2,10 @@ Login Security Enhancer (Node.js + Express + MongoDB)
 
 A secure authentication system built with Node.js and MongoDB that protects against:
 
-✔ Brute-force attacks
-✔ Excessive login attempts
-✔ Account lockouts
-✔ Weak security practices
+ Brute-force attacks
+ Excessive login attempts
+ Account lockouts
+Weak security practices
 
 Features include hashed passwords, login attempt tracking, IP-based rate limiting, and JWT authentication (extendable).
 
